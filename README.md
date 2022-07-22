@@ -4,7 +4,7 @@ This is my solution to the Pac-Man assignments for UC Berkeley's Artificial Inte
 
 ## Project I - Search
 
-![pacman](s2.png)
+![s2](https://user-images.githubusercontent.com/73662635/180445539-35d72dda-b1d3-4564-8927-999ccfa3911d.png)
 
 1. In [depthFirstSearch](search/search.py#L103) I implemented a graph search version of the DFS algorithm, which avoids expanding any already visited states. It returns a list of actions (the path) that reaches the goal.
 ```
@@ -71,7 +71,7 @@ $ python autograder.py
 
 ## Project II - Multi-Agent Search
 
-![pacman](p4.png)
+![p4](https://user-images.githubusercontent.com/73662635/180445504-03628120-a51d-4bc4-880b-8d7ce593546f.png)
 
 1. In [ReflexAgent](multiagent/multiAgents.py#L25) I implement an agent that considers both food and ghost locations. To achieve that in my [evaluationFunction](multiagent/multiAgents.py#L54) I used the distance of the nearest ghost, food, as well as total distance of every food, so that "clusters" of food are favored. Then, I experimented till I found the optimal weights for these below:
 ```
