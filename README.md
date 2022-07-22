@@ -1,6 +1,6 @@
 # Berkeley Pac-Man Projects
 
-This is my solution to the Pac-Man assignments for UC Berkeley's Artificial Intelligence course, CS 188 of Spring 2021. The purpose of these projects was to learn foundational AI concepts, such as informed state-space search, probabilistic inference, and reinforcement learning. These concepts underly real-world application areas such as natural language processing, computer vision, and robotics.
+These are my solutions to the Pac-Man assignments for UC Berkeley's Artificial Intelligence course, CS 188 of Spring 2021. The purpose of these projects was to learn foundational AI concepts, such as informed state-space search, probabilistic inference, and reinforcement learning. These concepts underly real-world application areas such as natural language processing, computer vision, and robotics.
 
 ## Project I - Search
 
